@@ -1,0 +1,5 @@
+{
+  "name": "Payload",
+  "description": "A secure payload management application with user authentication and a dedicated administrative dashboard in a green-themed interface.",
+  "requestFramePermissions": []
+}
